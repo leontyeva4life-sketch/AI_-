@@ -1,0 +1,8 @@
+{
+  "name": "AI English Teacher",
+  "description": "A comprehensive AI-powered English learning platform for students with multi-chat support, multimodal inputs, and specialized learning modes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
